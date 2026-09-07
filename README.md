@@ -8,8 +8,4 @@
 
 </div>
 
-<picture>
-    <img
-        alt="github contribution snake animation"
-        src="https://raw.githubusercontent.com/VitorFoppa/VitorFoppa/output/github-contribution-grid-snake.svg">
-</picture>
+
