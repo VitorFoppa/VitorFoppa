@@ -7,3 +7,9 @@
   <img height="180em" src="https://streak-stats.demolab.com?user=VitorFoppa&theme=github-dark&hide_border=true&ring=00FF7F&fire=00FF7F&currStreakLabel=00FF7F"/>
 
 </div>
+
+<picture>
+    <img
+        alt="github contribution snake animation"
+        src="https://raw.githubusercontent.com/VitorFoppa/VitorFoppa/output/github-contribution-grid-snake.svg">
+</picture>
